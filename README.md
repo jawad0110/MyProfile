@@ -21,6 +21,4 @@ Staying connected is vital in today's fast-paced digital world. I'm here to conn
 
 Email: jawadcoder0@gmail.com
 
-Let's embark on this tech journey together, innovate, create, and shape the future! 🌐🚀
-
-<h1>Hello</h2>
+<h3>Let's embark on this tech journey together, innovate, create, and shape the future! 🌐🚀</h3>
