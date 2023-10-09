@@ -19,6 +19,6 @@ I take pride in managing projects from concept to completion. From planning and 
 🤝 Let's Connect and Collaborate:
 Staying connected is vital in today's fast-paced digital world. I'm here to connect, collaborate, and share knowledge with fellow tech enthusiasts. Whether you're a business looking to establish a stronger online presence, an organization hungry for data-driven insights, or an individual with an app dream, I'm excited to be your tech partner.
 
-Email: jawadcoder0@gmail.com
+<bold>Email: jawadcoder0@gmail.com</bold>
 
 <h4>Let's embark on this tech journey together, innovate, create, and shape the future! 🌐🚀</h4>
