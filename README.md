@@ -1,6 +1,6 @@
 # MyProfile
 
-<h1>Hello, world! 🌍</h2>
+<h1>Hello, world! 🌍</h1>
 
 I'm a passionate IT student with a diverse set of skills and an unquenchable thirst for technology. Allow me to introduce myself and my journey.
 
